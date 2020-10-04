@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornsilk;
+}
+
+input{
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+button{
+    font-size: 15px;
+    border-radius: 7px;
+    border: 1px solid blue;
+    background-color: rgb(138, 202, 245);
+}
